@@ -19,7 +19,7 @@ namespace FoodService.Controllers
             new Food(3, "Roastes almonds", "People eat these?", 40)
         };
 
-        // GET: /api/food
+        // GET: /api/food/
         [HttpGet]
         public ActionResult<List<Food>> GetAll()
         {
