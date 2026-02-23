@@ -16,7 +16,7 @@ namespace FoodService.Controllers
         {
             new Food(1, "Applesauce", "mhmhmhm saucy sauce", 135),
             new Food(2, "Polish Sausage", "Best found at central fresh meat market", 199),
-            new Food(3, "Roastes almonds", "People eat these?", 40)
+            new Food(3, "Roasted almonds", "People eat these?", 40)
         };
 
         // GET: /api/food
